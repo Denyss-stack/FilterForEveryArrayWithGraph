@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678374947 source:f:\codeblocks\signalforgitblocks\main.cpp
+	<stdio.h>
+	<conio.h>
+	"graphics.h"
+
